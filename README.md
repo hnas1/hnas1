@@ -20,6 +20,7 @@ I mostly do Game Development at Roblox check out my <a href="https://www.roblox.
 I'm also interested in Cyber Security! Mostly pentesting! Related accounts are my <a href="https://hackerone.com/fallenwallsarebridges">hackerone account!</a><br>
 Learning and grinding algorithms in Leetcode! check out <a href="https://leetcode.com/hnas/">my Leetcode profile!</a>
 
+<!--
 ## Tech Goals!! 🎯🎯
 
 * Actually finish my website
@@ -29,6 +30,7 @@ Learning and grinding algorithms in Leetcode! check out <a href="https://leetcod
 * Master C++ (hard) (might be impossible)
 * and more that i forgor to typeee
 
+-->
 
 ## Journey has been wild fr, heres what I learned so far.
 
