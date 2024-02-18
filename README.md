@@ -2,18 +2,24 @@
 
 # Intro
 
+Self learning Tech since 2022!
+
+<!--
 I started my tech industry journey on a bored day in early 2021 after my broken laptop got fixed.<br>
 My first experience with programming was when I was scripting a Roblox game!<br>
 I fell inlove with programming and tech since then!
+-->
 
 ## Aspiring Web Developer!
 
-Working on a lot of things! Like <a href="https://hans.pages.dev/">my website!</a> <br>Most of my projects in Web Development will be posted here and on my website!
+Working on a lot of things! Like <a href="https://hans.pages.dev/">my website!</a> <br>Most of my projects in Web Development will be posted here and on my website! <br>
+Some projects from my old account @camelCaseAlt will also show here.
 
 
 ## Passionate Game Developer!
 
-I mostly do Game Development at Roblox check out my <a href="https://www.roblox.com/users/2499838033/profile">Roblox profile!</a>
+I mostly do Game Development at Roblox check out my <a href="https://www.roblox.com/users/2499838033/profile">Roblox profile!</a><br>
+I contributed over 800k+ game visits and 1.4k+ game favorites and built a community of hundreds of people, hmu for collabs!
 
 ## Interests!
 
@@ -32,7 +38,7 @@ Learning and grinding algorithms in Leetcode! check out <a href="https://leetcod
 
 -->
 
-## Journey has been wild fr, heres what I learned so far.
+## The Tech Journey has been wild fr, heres what I learned so far.
 
 <img src="https://skillicons.dev/icons?i=js,html,css,lua,python,java,react,nodejs,git,arduino,robloxstudio"/>
 
