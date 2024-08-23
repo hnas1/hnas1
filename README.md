@@ -3,13 +3,13 @@
 
 ## Web Developer!
 
-Working on a lot of things! Like <a href="https://hans.pages.dev/">my website!</a> <br>Most of my projects in Web Development will be posted here and on my website! <br>
+Working on a lot of things! Like <a href="https://hans.pages.dev/">my website!</a> <br>Most of my projects in Web Development will be posted here and on my website. <br>
 Some projects from my old account **@camelCaseAlt** will also show here.
 
 
 ## Passionate Game Developer!
 
-I mostly do Game Development at Roblox check out my <a href="https://www.roblox.com/users/2499838033/profile">Roblox profile!</a><br>
+I mostly do Game Development at Roblox.</a><br>
 I contributed over 800k+ game visits and 1.4k+ game favorites and built a community of hundreds of people, hmu for collabs!
 
 ## Interests!
