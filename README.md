@@ -1,16 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=5C1582&height=100&section=header">
 
-# Intro
 
-Self learning Tech since 2022!
-
-<!--
-I started my tech industry journey on a bored day in early 2021 after my broken laptop got fixed.<br>
-My first experience with programming was when I was scripting a Roblox game!<br>
-I fell inlove with programming and tech since then!
--->
-
-## Aspiring Web Developer!
+## Web Developer!
 
 Working on a lot of things! Like <a href="https://hans.pages.dev/">my website!</a> <br>Most of my projects in Web Development will be posted here and on my website! <br>
 Some projects from my old account **@camelCaseAlt** will also show here.
